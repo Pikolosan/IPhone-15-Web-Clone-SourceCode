@@ -7,12 +7,10 @@
   </div>
   <h3 align="center">iPhone 15 Website</h3>
   </div>
-</div>
-<div align="center">
-   Sample Video : https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing
-  <br>
-    To Visit The Site Directly <a href="https://pikolosan.github.io/IPhone15-Pro-Hosting/">Click Here</a>
-</div>
+  
+Demo Video Link (Drive) : **[Demo Video Link](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)**  
+
+Visit Live Website : **[Live Website Link](https://pikolosan.github.io/IPhone15-Pro-Hosting/)**
 <br>
 
 ## 🤖 Introduction
